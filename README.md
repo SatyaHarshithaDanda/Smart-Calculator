@@ -46,6 +46,13 @@ To create a user-friendly calculator that can:
    ```
 4. Type a natural language command in the input field and press `Execute`.
 
+## 📸 Application Preview
+
+Below is a screenshot of the Smart Calculator GUI in action:
+![1](https://github.com/user-attachments/assets/9995fefb-c71a-4700-9a46-377df2844d62)
+Example output after entering LCM of 78, 47 and 14:
+![2](https://github.com/user-attachments/assets/04d3e286-a73f-48b7-a59b-03d1d3a779d4)
+
 ## 📦 Example Inputs
 
 - `What is the sum of 23 and 77?`
